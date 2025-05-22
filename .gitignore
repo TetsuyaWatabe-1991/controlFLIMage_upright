@@ -1,0 +1,11 @@
+*.pyc
+*.tif
+*.tiff
+*.png
+*.ipynb
+*.h5
+DirectionSetting.ini
+XYsize.ini
+*/__pycache__/*
+./Archive/*
+Archive/*
