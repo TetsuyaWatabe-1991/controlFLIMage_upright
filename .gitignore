@@ -4,8 +4,10 @@
 *.png
 *.ipynb
 *.h5
+*.bat
 DirectionSetting.ini
 XYsize.ini
 */__pycache__/*
 ./Archive/*
 Archive/*
+temporary/*
